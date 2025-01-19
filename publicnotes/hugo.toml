@@ -1,0 +1,4 @@
+baseURL = 'https://caneppelevitor.github.io/'
+languageCode = 'en-us'
+title = 'Vitor Caneppele'
+theme = "hugo-book"

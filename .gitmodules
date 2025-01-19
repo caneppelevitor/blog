@@ -1,0 +1,7 @@
+[submodule "publicnotes/themes/hugo-book"]
+	path = publicnotes/themes/hugo-book
+	url = https://github.com/alex-shpak/hugo-book
+[submodule "publicnotes/public"]
+	path = publicnotes/public
+	url = https://github.com/caneppelevitor/caneppelevitor.github.io.git
+	branch = main
